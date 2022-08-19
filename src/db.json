@@ -1,0 +1,45 @@
+{
+  "user": [
+    {
+      "firstname": "nileshs",
+      "lastname": "sablee",
+      "phone": "9876543234",
+      "age": "29",
+      "email": "nilesh@gmail.com",
+      "password": "Nilesh@25",
+      "cpassword": "Nilesh@25",
+      "id": 15,
+      "id1": 1
+    },
+    {
+      "firstname": "kshitij",
+      "lastname": "gaikwad",
+      "phone": "9664359608",
+      "age": "24",
+      "email": "kmgaikwad97@gmail.com",
+      "password": "Kshitij@25",
+      "cpassword": "Kshitij@25",
+      "id": 16
+    }
+  ],
+  "data": [
+    {
+      "id": 1,
+      "email": "kmgaikwad97@gmail.com",
+      "password": "kkkkk"
+    },
+    {
+      "email": "kshitij@gmail.com",
+      "password": "kkkk",
+      "id": 2
+    },
+    {
+      "email": "kmgaikwad97@gmail.com",
+      "password": "kkk",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
